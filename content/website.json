@@ -1,0 +1,217 @@
+{
+  "seo": {
+    "title": "Administratie voor franchisenemers | De Finance Fabriek",
+    "description": "Administratie voor franchisenemers en een vaste administratiepartner voor franchisegevers: één standaardpakket per vestiging en controle van royalty's en marketingfee."
+  },
+  "hero": {
+    "label": "Voor franchisenemers en franchisegevers",
+    "title": "Eén administratie voor elke vestiging.",
+    "title_accent": "Zodat jij kunt ondernemen.",
+    "intro": "Wij kennen de administratie van franchisevestigingen. Franchisenemers krijgen een standaardpakket dat past bij hun formule, en wij controleren elke maand of royalty's en marketingfee kloppen. Franchisegevers kunnen ons als vaste partner aanbieden aan hun franchisenemers.",
+    "image": "/images/poort.jpg",
+    "button_primary": "Ik ben franchisenemer",
+    "button_secondary": "Ik ben franchisegever"
+  },
+  "choice": {
+    "nemer": {
+      "label": "Franchisenemer",
+      "title": "Je eigen vestiging, je eigen keuze",
+      "text": "Je meldt je gewoon zelf aan, ook als je franchiseorganisatie (nog) niet met ons samenwerkt. We nemen de afspraken uit je franchiseovereenkomst over.",
+      "button": "Bekijk wat we voor je doen"
+    },
+    "gever": {
+      "label": "Franchisegever",
+      "title": "Een vaste partner voor je keten",
+      "text": "Bied je franchisenemers een administratie aan die past bij je formule. Vrijblijvend: zij kiezen zelf en blijven zelf onze klant.",
+      "button": "Lees meer voor franchisegevers"
+    }
+  },
+  "why": {
+    "label": "Voor franchisenemers",
+    "title": "Een administratie die past bij je formule",
+    "text": "Elke vestiging in een franchiseketen verkoopt hetzelfde, op dezelfde manier. Toch regelt bijna iedere franchisenemer zijn administratie anders. Wij richten je vestiging in volgens een vast model voor franchisenemers. Dat scheelt jou tijd en geld, en je cijfers zijn vergelijkbaar met die van je collega-ondernemers.",
+    "points": [
+      "Rekeningschema ingericht op franchisevestigingen",
+      "Royalty's en marketingfee volgens je franchiseovereenkomst",
+      "Vaste maandprijs per vestiging, vooraf afgesproken",
+      "Realtime dashboard met je omzet en marge",
+      "Eén vast aanspreekpunt"
+    ],
+    "image": "/images/station-19.jpg"
+  },
+  "how": {
+    "label": "Zo werkt het",
+    "title": "In vijf stappen van kennismaking tot jaarrekening",
+    "text": "Je meldt je zelf aan. Werkt je franchiseorganisatie al met ons samen, dan liggen de afspraken over het rekeningschema en de afdrachten al klaar.",
+    "steps": [
+      {
+        "title": "Kennismaking",
+        "text": "We bespreken je vestiging, je formule en de afspraken in je franchiseovereenkomst."
+      },
+      {
+        "title": "Aanmelding",
+        "text": "Je wordt klant, bij de start van je vestiging of op een moment dat jou uitkomt. Je overstap regelen we voor je."
+      },
+      {
+        "title": "Inrichting",
+        "text": "We koppelen je bank, zetten de app klaar en nemen de afspraken uit je franchiseovereenkomst over."
+      },
+      {
+        "title": "Elke maand",
+        "text": "We verwerken je boekhouding, doen de btw-aangifte en controleren je royalty's en marketingfee."
+      },
+      {
+        "title": "Jaarafsluiting",
+        "text": "We stellen je jaarrekening op, doen je aangiftes en bespreken de cijfers met je."
+      }
+    ]
+  },
+  "services": {
+    "label": "Diensten",
+    "title": "Wat we voor franchisenemers doen",
+    "core_label": "Kern",
+    "extra_label": "Aanvullend"
+  },
+  "band": {
+    "image": "/images/tandwiel.jpg",
+    "line1": "Eén formule.",
+    "line2": "Eén administratie voor elke vestiging."
+  },
+  "points": {
+    "label": "Aandachtspunten",
+    "title": "Waar je als franchisenemer op let",
+    "text": "Deze onderwerpen komen bij bijna elke franchisenemer terug. Hoe ze voor jou uitpakken, staat in je franchiseovereenkomst.",
+    "items": [
+      {
+        "title": "Royalty's",
+        "text": "Meestal een percentage van je omzet. Let op wat telt als omzet: vaak de omzet exclusief btw, soms na kortingen of retouren. Dat bepaalt je overeenkomst."
+      },
+      {
+        "title": "Marketingfee",
+        "text": "Een vaste bijdrage of een percentage voor landelijke reclame en acties. Die staat los van je royalty's en wordt vaak apart gefactureerd."
+      },
+      {
+        "title": "Btw op afdrachten",
+        "text": "Je franchisegever brengt meestal btw in rekening op royalty's en marketingfee. Die btw kun je als ondernemer in de regel terugvragen."
+      },
+      {
+        "title": "Omzetrapportage",
+        "text": "Veel formules vragen elke maand een omzetopgave. Die moet aansluiten op je kassasysteem en je boekhouding."
+      },
+      {
+        "title": "Entreegeld",
+        "text": "Het eenmalige bedrag bij de start van je vestiging wordt vaak niet in één keer als kosten genomen, maar verdeeld over de looptijd van je overeenkomst."
+      },
+      {
+        "title": "Inrichting en investeringen",
+        "text": "Verbouwing, inventaris en apparatuur schrijf je af over meerdere jaren. Een goede start voorkomt correcties later."
+      }
+    ],
+    "note": "Dit zijn algemene aandachtspunten, geen advies voor jouw situatie. Wat voor jou geldt, staat in je franchiseovereenkomst."
+  },
+  "pricing": {
+    "label": "Prijzen",
+    "title": "Duidelijke prijzen, vooraf afgesproken",
+    "cards": [
+      {
+        "title": "Standaardpakket franchisenemer",
+        "price": "Vaste maandprijs",
+        "price_note": "per vestiging, excl. btw",
+        "text": "De complete administratie van je vestiging, ingericht volgens het model van je formule.",
+        "items": [
+          "Boekhouding met bankkoppeling en app",
+          "Btw-aangifte",
+          "Jaarrekening en aangiftes",
+          "Realtime dashboard"
+        ]
+      },
+      {
+        "title": "Module afdrachten",
+        "price": "Per maand",
+        "price_note": "per vestiging, excl. btw",
+        "text": "Maandelijkse berekening en controle van je royalty's en marketingfee, naast het standaardpakket.",
+        "items": [
+          "Berekening volgens je overeenkomst",
+          "Controle van de facturen van je formule",
+          "Aansluiting met je kassa-omzet",
+          "Signaal bij verschillen"
+        ]
+      }
+    ]
+  },
+  "franchisor": {
+    "label": "Voor franchisegevers",
+    "title": "Een vaste administratiepartner voor al je franchisenemers",
+    "text": "Ben je franchisegever? We maken graag afspraken over een standaardpakket voor je franchisenemers. Dat is geen verplichting: franchisenemers kiezen zelf of ze klant worden en blijven zelf onze klant. Jij krijgt ondernemers met een goed ingerichte administratie en betrouwbare omzetopgaven.",
+    "points": [
+      "Eén rekeningschema voor alle vestigingen die klant zijn",
+      "Afdrachten berekend volgens je franchiseovereenkomst",
+      "Hulp bij de start van nieuwe vestigingen",
+      "Gegevens alleen gedeeld met toestemming van de franchisenemer"
+    ],
+    "button": "Lees meer voor franchisegevers"
+  },
+  "guides": {
+    "label": "Gidsen",
+    "title": "Ondernemen in een franchiseketen, uitgelegd",
+    "text": "Praktische uitleg bij de vragen die franchisenemers ons het vaakst stellen."
+  },
+  "faq": {
+    "label": "Vragen",
+    "title": "Veelgestelde vragen",
+    "items": [
+      {
+        "q": "Moet mijn franchiseorganisatie met jullie samenwerken?",
+        "a": "Nee. Je kunt je gewoon zelf aanmelden. Heeft je franchiseorganisatie al afspraken met ons, dan is je administratie direct afgestemd op je formule. Zo niet, dan nemen we de afspraken uit je franchiseovereenkomst over."
+      },
+      {
+        "q": "Krijgt mijn franchiseorganisatie inzage in mijn cijfers?",
+        "a": "Alleen wat in je franchiseovereenkomst staat, zoals je omzetopgave, en alleen met jouw toestemming. Je volledige administratie blijft van jou."
+      },
+      {
+        "q": "Wat zit er in het standaardpakket?",
+        "a": "Je boekhouding met bankkoppeling en app, de btw-aangiftes, je jaarrekening en aangiftes en een realtime dashboard, ingericht volgens het model van je formule."
+      },
+      {
+        "q": "Hoe controleren jullie mijn royalty's?",
+        "a": "We berekenen elke maand je afdrachten op basis van je omzet en de afspraken in je franchiseovereenkomst, en vergelijken die met de factuur van je formule. Zien we een verschil, dan laten we het je weten."
+      },
+      {
+        "q": "Ik start binnenkort een vestiging. Kunnen jullie helpen?",
+        "a": "Ja. We helpen bij de keuze tussen eenmanszaak en bv, de oprichting met een gespecialiseerde notaris, de financiering en een goede startadministratie."
+      },
+      {
+        "q": "Ik heb meerdere vestigingen. Kan dat ook?",
+        "a": "Ja. We richten elke vestiging apart in en geven je een totaaloverzicht. Vaak is een holdingstructuur dan interessant."
+      },
+      {
+        "q": "Wat kost het?",
+        "a": "Het standaardpakket heeft een vaste maandprijs per vestiging, die we vooraf met je afspreken. Al onze prijzen zijn exclusief btw."
+      }
+    ]
+  },
+  "contact": {
+    "label": "Contact",
+    "title": "Grip op de cijfers van je vestiging?",
+    "text": "Vertel kort over je vestiging en je formule. We nemen binnen één werkdag contact op voor een kennismaking. Ben je franchisegever? Gebruik dan het formulier op de pagina voor franchisegevers.",
+    "address_line": "Bergen op Zoom",
+    "email": "info@financefabriek.nl",
+    "booking_title": "Liever direct een afspraak?",
+    "booking_text": "Kies zelf een moment voor een kennismaking in onze agenda.",
+    "booking_url": "https://calendly.com/eef-duin-financefabriek/30min",
+    "booking_button": "Plan een afspraak",
+    "image": "/images/fabriekshal.jpg",
+    "form_options": [
+      "Ik ben franchisenemer",
+      "Ik start binnenkort een vestiging",
+      "Ik heb meerdere vestigingen",
+      "Iets anders"
+    ],
+    "form_message_placeholder": "Bijvoorbeeld: je formule, het aantal vestigingen en waar je tegenaan loopt"
+  },
+  "company": {
+    "legal": "handelsnaam van TFTF Holding B.V.",
+    "kvk": "82005621",
+    "btw": "NL862301543B02"
+  }
+}

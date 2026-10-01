@@ -1,0 +1,556 @@
+media:
+  input: images
+  output: /images
+
+content:
+  - name: website
+    label: "Website-teksten"
+    type: file
+    path: content/website.json
+    format: json
+    fields:
+      - name: seo
+        label: "Titel en omschrijving voor Google"
+        type: object
+        fields:
+          - name: title
+            label: "Titel"
+            type: string
+          - name: description
+            label: "Omschrijving"
+            type: text
+      - name: hero
+        label: "Bovenaan (hero)"
+        type: object
+        fields:
+          - name: label
+            label: "Klein label"
+            type: string
+          - name: title
+            label: "Titel"
+            type: string
+          - name: title_accent
+            label: "Titel, tweede deel (geel)"
+            type: string
+          - name: intro
+            label: "Intro"
+            type: text
+          - name: image
+            label: "Foto"
+            type: image
+          - name: button_primary
+            label: "Eerste knop"
+            type: string
+          - name: button_secondary
+            label: "Tweede knop"
+            type: string
+      - name: choice
+        label: "Keuze franchisenemer / franchisegever"
+        type: object
+        fields:
+          - name: nemer
+            label: "Kaart franchisenemer"
+            type: object
+            fields:
+              - name: label
+                label: "Klein label"
+                type: string
+              - name: title
+                label: "Titel"
+                type: string
+              - name: text
+                label: "Tekst"
+                type: text
+              - name: button
+                label: "Knop"
+                type: string
+          - name: gever
+            label: "Kaart franchisegever"
+            type: object
+            fields:
+              - name: label
+                label: "Klein label"
+                type: string
+              - name: title
+                label: "Titel"
+                type: string
+              - name: text
+                label: "Tekst"
+                type: text
+              - name: button
+                label: "Knop"
+                type: string
+      - name: why
+        label: "Waarom (franchisenemers)"
+        type: object
+        fields:
+          - name: label
+            label: "Klein label"
+            type: string
+          - name: title
+            label: "Titel"
+            type: string
+          - name: text
+            label: "Tekst"
+            type: text
+          - name: points
+            label: "Opsommingspunten"
+            type: string
+            list: true
+          - name: image
+            label: "Foto"
+            type: image
+      - name: how
+        label: "Werkwijze (stappen)"
+        type: object
+        fields:
+          - name: label
+            label: "Klein label"
+            type: string
+          - name: title
+            label: "Titel"
+            type: string
+          - name: text
+            label: "Tekst"
+            type: text
+          - name: steps
+            label: "Stappen"
+            type: object
+            list: true
+            fields:
+              - name: title
+                label: "Titel"
+                type: string
+              - name: text
+                label: "Tekst"
+                type: text
+      - name: services
+        label: "Kop boven de diensten"
+        type: object
+        fields:
+          - name: label
+            label: "Klein label"
+            type: string
+          - name: title
+            label: "Titel"
+            type: string
+          - name: core_label
+            label: "Label kerndiensten"
+            type: string
+          - name: extra_label
+            label: "Label aanvullende diensten"
+            type: string
+      - name: band
+        label: "Fotoband met slogan"
+        type: object
+        fields:
+          - name: image
+            label: "Foto"
+            type: image
+          - name: line1
+            label: "Regel 1"
+            type: string
+          - name: line2
+            label: "Regel 2 (geel)"
+            type: string
+      - name: points
+        label: "Opsommingspunten"
+        type: object
+        fields:
+          - name: label
+            label: "Klein label"
+            type: string
+          - name: title
+            label: "Titel"
+            type: string
+          - name: text
+            label: "Tekst"
+            type: text
+          - name: items
+            label: "Onderdelen"
+            type: object
+            list: true
+            fields:
+              - name: title
+                label: "Titel"
+                type: string
+              - name: text
+                label: "Tekst"
+                type: text
+          - name: note
+            label: "Toelichting"
+            type: text
+      - name: pricing
+        label: "Prijzen"
+        type: object
+        fields:
+          - name: label
+            label: "Klein label"
+            type: string
+          - name: title
+            label: "Titel"
+            type: string
+          - name: cards
+            label: "Prijsblokken"
+            type: object
+            list: true
+            fields:
+              - name: title
+                label: "Titel"
+                type: string
+              - name: price
+                label: "Prijs"
+                type: string
+              - name: price_note
+                label: "Toelichting bij prijs"
+                type: string
+              - name: text
+                label: "Tekst"
+                type: text
+              - name: items
+                label: "Onderdelen"
+                type: string
+                list: true
+      - name: franchisor
+        label: "Blok franchisegevers"
+        type: object
+        fields:
+          - name: label
+            label: "Klein label"
+            type: string
+          - name: title
+            label: "Titel"
+            type: string
+          - name: text
+            label: "Tekst"
+            type: text
+          - name: points
+            label: "Opsommingspunten"
+            type: string
+            list: true
+          - name: button
+            label: "Knop"
+            type: string
+      - name: guides
+        label: "Kop boven de gidsen"
+        type: object
+        fields:
+          - name: label
+            label: "Klein label"
+            type: string
+          - name: title
+            label: "Titel"
+            type: string
+          - name: text
+            label: "Tekst"
+            type: text
+      - name: faq
+        label: "Veelgestelde vragen"
+        type: object
+        fields:
+          - name: label
+            label: "Klein label"
+            type: string
+          - name: title
+            label: "Titel"
+            type: string
+          - name: items
+            label: "Onderdelen"
+            type: object
+            list: true
+            fields:
+              - name: q
+                label: "Vraag"
+                type: string
+              - name: a
+                label: "Antwoord"
+                type: text
+      - name: contact
+        label: "Contact"
+        type: object
+        fields:
+          - name: label
+            label: "Klein label"
+            type: string
+          - name: title
+            label: "Titel"
+            type: string
+          - name: text
+            label: "Tekst"
+            type: text
+          - name: address_line
+            label: "Plaats"
+            type: string
+          - name: email
+            label: "E-mailadres"
+            type: string
+          - name: booking_title
+            label: "Afspraakblok: titel"
+            type: string
+          - name: booking_text
+            label: "Afspraakblok: tekst"
+            type: string
+          - name: booking_url
+            label: "Afspraakblok: link naar agenda"
+            type: string
+          - name: booking_button
+            label: "Afspraakblok: knop"
+            type: string
+          - name: image
+            label: "Foto"
+            type: image
+          - name: form_options
+            label: "Keuzes in het formulier"
+            type: string
+            list: true
+          - name: form_message_placeholder
+            label: "Voorbeeldtekst in het berichtveld"
+            type: string
+      - name: company
+        label: "Bedrijfsgegevens"
+        type: object
+        fields:
+          - name: legal
+            label: "Rechtspersoon"
+            type: string
+          - name: kvk
+            label: "KvK-nummer"
+            type: string
+          - name: btw
+            label: "Btw-nummer"
+            type: string
+  - name: franchisegevers
+    label: "Pagina franchisegevers"
+    type: file
+    path: content/franchisegevers.json
+    format: json
+    fields:
+      - name: seo
+        label: "Titel en omschrijving voor Google"
+        type: object
+        fields:
+          - name: title
+            label: "Titel"
+            type: string
+          - name: description
+            label: "Omschrijving"
+            type: text
+      - name: hero
+        label: "Bovenaan (hero)"
+        type: object
+        fields:
+          - name: label
+            label: "Klein label"
+            type: string
+          - name: title
+            label: "Titel"
+            type: string
+          - name: title_accent
+            label: "Titel, tweede deel (geel)"
+            type: string
+          - name: intro
+            label: "Intro"
+            type: text
+          - name: image
+            label: "Foto"
+            type: image
+          - name: button_primary
+            label: "Eerste knop"
+            type: string
+          - name: button_secondary
+            label: "Tweede knop"
+            type: string
+      - name: benefits
+        label: "Wat het oplevert"
+        type: object
+        fields:
+          - name: label
+            label: "Klein label"
+            type: string
+          - name: title
+            label: "Titel"
+            type: string
+          - name: text
+            label: "Tekst"
+            type: text
+          - name: points
+            label: "Opsommingspunten"
+            type: string
+            list: true
+          - name: image
+            label: "Foto"
+            type: image
+      - name: steps
+        label: "Stappen"
+        type: object
+        fields:
+          - name: label
+            label: "Klein label"
+            type: string
+          - name: title
+            label: "Titel"
+            type: string
+          - name: text
+            label: "Tekst"
+            type: text
+          - name: items
+            label: "Onderdelen"
+            type: object
+            list: true
+            fields:
+              - name: title
+                label: "Titel"
+                type: string
+              - name: text
+                label: "Tekst"
+                type: text
+      - name: offer
+        label: "Kop boven het aanbod"
+        type: object
+        fields:
+          - name: label
+            label: "Klein label"
+            type: string
+          - name: title
+            label: "Titel"
+            type: string
+      - name: principles
+        label: "Uitgangspunten"
+        type: object
+        fields:
+          - name: label
+            label: "Klein label"
+            type: string
+          - name: title
+            label: "Titel"
+            type: string
+          - name: items
+            label: "Onderdelen"
+            type: object
+            list: true
+            fields:
+              - name: title
+                label: "Titel"
+                type: string
+              - name: text
+                label: "Tekst"
+                type: text
+      - name: faq
+        label: "Veelgestelde vragen"
+        type: object
+        fields:
+          - name: label
+            label: "Klein label"
+            type: string
+          - name: title
+            label: "Titel"
+            type: string
+          - name: items
+            label: "Onderdelen"
+            type: object
+            list: true
+            fields:
+              - name: q
+                label: "Vraag"
+                type: string
+              - name: a
+                label: "Antwoord"
+                type: text
+      - name: contact
+        label: "Contact"
+        type: object
+        fields:
+          - name: label
+            label: "Klein label"
+            type: string
+          - name: title
+            label: "Titel"
+            type: string
+          - name: text
+            label: "Tekst"
+            type: text
+          - name: form_options
+            label: "Keuzes in het formulier"
+            type: string
+            list: true
+          - name: form_message_placeholder
+            label: "Voorbeeldtekst in het berichtveld"
+            type: string
+  - name: diensten
+    label: "Dienstpagina's"
+    type: file
+    path: content/diensten.json
+    format: json
+    fields:
+      - name: diensten
+        label: "Diensten"
+        type: object
+        list: true
+        fields:
+          - name: slug
+            label: "Adres van de pagina"
+            type: string
+          - name: group
+            label: Groep
+            type: select
+            options:
+              values: [kern, aanvullend]
+          - name: code
+            label: "Klein label"
+            type: string
+          - name: title
+            label: "Titel"
+            type: string
+          - name: summary
+            label: "Korte omschrijving"
+            type: text
+          - name: intro
+            label: "Intro"
+            type: text
+          - name: image
+            label: "Foto"
+            type: image
+          - name: points
+            label: "Opsommingspunten"
+            type: string
+            list: true
+          - name: note
+            label: "Toelichting"
+            type: text
+  - name: gidsen
+    label: "Gidsen"
+    type: file
+    path: content/gidsen.json
+    format: json
+    fields:
+      - name: gidsen
+        label: "Gidsen"
+        type: object
+        list: true
+        fields:
+          - name: slug
+            label: "Adres van de pagina"
+            type: string
+          - name: code
+            label: "Klein label"
+            type: string
+          - name: title
+            label: "Titel"
+            type: string
+          - name: summary
+            label: "Korte omschrijving"
+            type: text
+          - name: image
+            label: "Foto"
+            type: image
+          - name: sections
+            label: "Alinea's"
+            type: object
+            list: true
+            fields:
+              - name: heading
+                label: "Tussenkop"
+                type: string
+              - name: text
+                label: "Tekst"
+                type: text

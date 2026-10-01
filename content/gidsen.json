@@ -1,0 +1,46 @@
+{
+  "gidsen": [
+    {
+      "slug": "royalties-en-marketingfee-controleren",
+      "code": "Afdrachten",
+      "title": "Royalty's en marketingfee: zo controleer je je afdrachten",
+      "summary": "Wat de grondslag is, waar het vaak misgaat en hoe je controleert of je factuur klopt.",
+      "image": "/images/meter.jpg",
+      "sections": [
+        { "heading": "Wat zijn royalty's en marketingfee?", "text": "Royalty's zijn de doorlopende vergoeding die je betaalt voor het gebruik van de formule, de merknaam en de kennis van je franchisegever. Meestal is dat een percentage van je omzet. De marketingfee is een aparte bijdrage voor landelijke reclame en acties. Die kan een vast bedrag zijn of ook een percentage van je omzet." },
+        { "heading": "Wat telt als omzet?", "text": "Hier gaat het het vaakst mis. In de meeste franchiseovereenkomsten gaat het om de omzet exclusief btw, maar het kan ook gaan om de omzet na kortingen, retouren of personeelsaankopen. Soms tellen cadeaukaarten pas mee als ze verzilverd worden. Lees in je overeenkomst precies hoe de grondslag is omschreven, en zorg dat je omzetopgave daarop aansluit." },
+        { "heading": "Btw op je afdrachten", "text": "Je franchisegever brengt meestal btw in rekening over royalty's en marketingfee. Als ondernemer die btw-belaste omzet heeft, kun je die btw in de regel als voorbelasting terugvragen. Controleer wel of de factuur aan de eisen voldoet, anders kan de aftrek worden geweigerd." },
+        { "heading": "Zo controleer je je factuur", "text": "Leg elke maand drie bedragen naast elkaar: de omzet uit je kassasysteem, de omzet die je aan je formule hebt opgegeven en de omzet in je boekhouding. Vermenigvuldig de juiste grondslag met het percentage uit je overeenkomst en vergelijk de uitkomst met de factuur. Kleine verschillen door afronding zijn normaal. Grotere verschillen wijzen vaak op een andere grondslag, een gemiste correctie of een verkeerd percentage." },
+        { "heading": "Wat doe je bij een verschil?", "text": "Zoek eerst uit waar het verschil vandaan komt, bijvoorbeeld een retour of een correctie op je omzetopgave. Bespreek het daarna met je franchiseorganisatie, met je berekening erbij. Met de module afdrachten doen wij deze controle elke maand voor je, en lichten we verschillen toe." }
+      ]
+    },
+    {
+      "slug": "entreegeld-en-investeringen",
+      "code": "Start",
+      "title": "Entreegeld en investeringen bij de start van je vestiging",
+      "summary": "Hoe je het entreegeld, de verbouwing en de inventaris van een nieuwe vestiging verwerkt.",
+      "image": "/images/gebouw.jpg",
+      "sections": [
+        { "heading": "Wat is entreegeld?", "text": "Bij de start van een vestiging betaal je vaak een eenmalig bedrag aan je franchisegever: het entreegeld of de franchisefee. Daarvoor krijg je het recht om de formule te gebruiken, vaak met een opleiding en hulp bij de opening." },
+        { "heading": "Kosten of investering?", "text": "Het entreegeld geeft je een recht dat meerdere jaren meegaat. Daarom wordt het vaak niet in één keer als kosten genomen, maar geactiveerd en verdeeld over de looptijd van je franchiseovereenkomst, binnen de fiscale regels. Hoe het voor jou uitpakt, hangt af van je overeenkomst en je situatie." },
+        { "heading": "Verbouwing en inventaris", "text": "De verbouwing van je pand, de inventaris en apparatuur zoals een kassasysteem of keuken gaan meerdere jaren mee. Die schrijf je af over hun levensduur. Bij een gehuurd pand hangt de afschrijving van de verbouwing ook af van de looptijd van je huurcontract." },
+        { "heading": "Investeringsaftrek", "text": "Investeer je in bedrijfsmiddelen, dan kom je mogelijk in aanmerking voor de kleinschaligheidsinvesteringsaftrek. Die verlaagt je belastbare winst. Of je er recht op hebt, hangt af van het soort bedrijfsmiddel en het totaalbedrag dat je in een jaar investeert." },
+        { "heading": "Een goede start voorkomt correcties", "text": "Wat je in het eerste jaar verkeerd verwerkt, moet je later vaak corrigeren. Laat je startadministratie daarom direct goed inrichten, het liefst voordat je de eerste grote facturen betaalt." }
+      ]
+    },
+    {
+      "slug": "eenmanszaak-of-bv-als-franchisenemer",
+      "code": "Rechtsvorm",
+      "title": "Eenmanszaak of bv als franchisenemer?",
+      "summary": "De belangrijkste verschillen op een rij, en waarom het antwoord vaak verandert als je groeit.",
+      "image": "/images/staal.jpg",
+      "sections": [
+        { "heading": "Twee gangbare keuzes", "text": "De meeste franchisenemers starten als eenmanszaak of met een bv. Soms schrijft de franchiseorganisatie een rechtsvorm voor, maar vaak mag je zelf kiezen. Lees dit eerst na in je franchiseovereenkomst." },
+        { "heading": "De eenmanszaak", "text": "Een eenmanszaak is eenvoudig en goedkoop op te zetten. Je betaalt inkomstenbelasting over je winst, en als je aan het urencriterium voldoet heb je recht op ondernemersaftrek en de mkb-winstvrijstelling. Je bent wel persoonlijk aansprakelijk voor de schulden van je onderneming." },
+        { "heading": "De bv", "text": "Met een bv betaal je vennootschapsbelasting over de winst, en als directeur-grootaandeelhouder ontvang je een salaris waarvoor de regel van het gebruikelijk loon geldt. Je aansprakelijkheid is in principe beperkt, maar banken, verhuurders en franchisegevers vragen vaak toch een persoonlijke borg. Een bv brengt meer administratieve verplichtingen met zich mee." },
+        { "heading": "Groei en meerdere vestigingen", "text": "Bij een hogere winst of een tweede vestiging wordt een bv, vaak met een holding erboven, interessanter. Met een holding kun je vestigingen apart onderbrengen en winst opzij zetten. Een eenmanszaak kun je later ook nog omzetten in een bv." },
+        { "heading": "Laat het doorrekenen", "text": "Welke rechtsvorm het voordeligst is, hangt af van je verwachte winst, je persoonlijke situatie en je plannen. We rekenen het graag voor je door, het liefst voordat je de franchiseovereenkomst tekent." }
+      ]
+    }
+  ]
+}

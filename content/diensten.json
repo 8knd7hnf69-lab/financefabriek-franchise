@@ -1,0 +1,106 @@
+{
+  "diensten": [
+    {
+      "slug": "standaardpakket-franchisenemer",
+      "group": "kern",
+      "code": "Kern",
+      "title": "Standaardpakket franchisenemer",
+      "summary": "De complete administratie van je vestiging, ingericht volgens het vaste model van je formule.",
+      "intro": "Elke vestiging van een formule werkt op dezelfde manier. Daarom richten we ook je administratie volgens een vast model voor franchisenemers in, met een rekeningschema dat aansluit op je formule. Jij hoeft niets uit te zoeken.",
+      "image": "/images/station-19.jpg",
+      "points": [
+        "Geautomatiseerde boekhouding met bankkoppeling en app",
+        "Rekeningschema ingericht op je formule",
+        "Btw-aangifte per maand of kwartaal",
+        "Jaarrekening, deponering en aangiftes",
+        "Realtime dashboard met omzet, marge en kosten",
+        "Vaste maandprijs per vestiging"
+      ],
+      "note": "Je bent zelf onze klant. Je franchiseorganisatie ziet alleen wat in je franchiseovereenkomst staat, en alleen met jouw toestemming."
+    },
+    {
+      "slug": "afdracht-royalties",
+      "group": "kern",
+      "code": "Kern",
+      "title": "Afdracht royalty's en marketingfee",
+      "summary": "Elke maand je royalty's en marketingfee berekend en gecontroleerd volgens je franchiseovereenkomst.",
+      "intro": "Royalty's en marketingfee zijn voor veel franchisenemers de grootste vaste kostenpost na huur en personeel. Een fout in de grondslag of het percentage loopt snel op. We berekenen je afdrachten elke maand en controleren of de factuur van je formule klopt.",
+      "image": "/images/meter.jpg",
+      "points": [
+        "Berekening op basis van je omzet en je franchiseovereenkomst",
+        "Controle van de facturen van je franchiseorganisatie",
+        "Aansluiting tussen kassa-omzet, omzetopgave en boekhouding",
+        "Juiste verwerking van de btw op je afdrachten",
+        "Signaal en toelichting bij verschillen"
+      ],
+      "note": "Deze module is een aanvulling op het standaardpakket en heeft een vaste prijs per vestiging per maand."
+    },
+    {
+      "slug": "salarisadministratie",
+      "group": "aanvullend",
+      "code": "Personeel",
+      "title": "Salarisadministratie",
+      "summary": "Loonstroken, loonaangiftes en jaaropgaven voor je medewerkers, ook bij wisselende uren.",
+      "intro": "In veel franchisevestigingen werken parttimers en oproepkrachten met wisselende uren. We verzorgen je complete salarisadministratie, zodat je medewerkers op tijd en correct betaald worden.",
+      "image": "/images/hal.jpg",
+      "points": [
+        "Maandelijkse loonstroken en loonaangifte",
+        "Verwerking van wisselende uren en toeslagen",
+        "In- en uitdienst van medewerkers",
+        "Jaaropgaven",
+        "Loonkosten direct zichtbaar in je dashboard"
+      ],
+      "note": "Werkt je formule met een vast roosterprogramma? Vraag ons naar de koppeling."
+    },
+    {
+      "slug": "start-van-je-vestiging",
+      "group": "aanvullend",
+      "code": "Start",
+      "title": "Start van je vestiging",
+      "summary": "Van rechtsvorm en oprichting tot financiering en een goede startadministratie.",
+      "intro": "Een nieuwe vestiging begint met veel keuzes: eenmanszaak of bv, hoe je het entreegeld en de verbouwing verwerkt en hoe je de start financiert. We begeleiden je vanaf het begin, samen met gespecialiseerde notarissen.",
+      "image": "/images/gebouw.jpg",
+      "points": [
+        "Advies over de rechtsvorm: eenmanszaak, bv of holding",
+        "Oprichting van je bv met een gespecialiseerde notaris",
+        "Financiering via Capital Search, zoals werkkapitaal en bedrijfsmiddelen",
+        "Juiste verwerking van entreegeld, verbouwing en inventaris",
+        "Je administratie direct goed ingericht"
+      ],
+      "note": "Neem op tijd contact op, het liefst voordat je de franchiseovereenkomst tekent. Dan kunnen we nog meedenken."
+    },
+    {
+      "slug": "meerdere-vestigingen",
+      "group": "aanvullend",
+      "code": "Groei",
+      "title": "Meerdere vestigingen",
+      "summary": "Elke vestiging apart in beeld, met één totaaloverzicht en een passende structuur.",
+      "intro": "Heb je meer dan één vestiging, dan wil je per vestiging zien hoe het gaat én het totaal kennen. We richten elke vestiging apart in en geven je één overzicht. Vaak is een holdingstructuur dan interessant.",
+      "image": "/images/staal.jpg",
+      "points": [
+        "Administratie per vestiging",
+        "Totaaloverzicht van al je vestigingen",
+        "Vergelijking tussen je vestigingen",
+        "Advies over een holdingstructuur",
+        "Afdrachten per vestiging gecontroleerd"
+      ],
+      "note": "Groei je verder? Met CFO-for-a-day krijg je een vaste financieel manager die meedenkt."
+    },
+    {
+      "slug": "cfo-for-a-day",
+      "group": "aanvullend",
+      "code": "Advies",
+      "title": "CFO-for-a-day",
+      "summary": "Een vaste financieel manager die meedenkt over je cijfers, je groei en je financiering.",
+      "intro": "Met CFO-for-a-day krijg je een vaste financieel manager in maandelijkse urenblokken. Ideaal als je groeit naar meerdere vestigingen, een tweede vestiging overweegt of in gesprek gaat met je bank.",
+      "image": "/images/controlepaneel.jpg",
+      "points": [
+        "Vaste sparringpartner voor je cijfers",
+        "Begrotingen en prognoses per vestiging",
+        "Voorbereiding van gesprekken met bank of financier",
+        "Urenblokken van minimaal 8 uur per maand"
+      ],
+      "note": "CFO-for-a-day werkt met een maandabonnement in urenblokken van minimaal 8 uur."
+    }
+  ]
+}

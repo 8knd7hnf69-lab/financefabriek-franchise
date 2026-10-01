@@ -1,0 +1,71 @@
+{
+  "seo": {
+    "title": "Voor franchisegevers | De Finance Fabriek",
+    "description": "Bied je franchisenemers een vaste administratiepartner aan: één standaardpakket voor elke vestiging en correcte royalty- en marketingafdrachten. Vrijblijvend, zonder verplichting."
+  },
+  "hero": {
+    "label": "Voor franchisegevers",
+    "title": "Een vaste administratiepartner voor je franchisenemers.",
+    "title_accent": "Zonder verplichting.",
+    "intro": "Bied je franchisenemers een administratie aan die past bij je formule. Wij richten elke vestiging volgens hetzelfde model in en controleren de royalty's en marketingfee. Je franchisenemers kiezen zelf of ze klant worden en blijven zelf onze klant.",
+    "image": "/images/hal.jpg",
+    "button_primary": "Maak een afspraak",
+    "button_secondary": "Zo werkt de samenwerking"
+  },
+  "benefits": {
+    "label": "Wat het je oplevert",
+    "title": "Sterke franchisenemers beginnen met goede cijfers",
+    "text": "Een franchisenemer die zijn cijfers niet op orde heeft, kost je organisatie tijd en geld. Met een vaste administratiepartner krijgen je franchisenemers dezelfde, goed ingerichte administratie, en heb jij minder zorgen over omzetopgaven en afdrachten.",
+    "points": [
+      "Elke vestiging volgens hetzelfde rekeningschema ingericht",
+      "Betrouwbare omzetopgaven en correcte afdrachten",
+      "Cijfers die per vestiging vergelijkbaar zijn",
+      "Een snellere en betere start van nieuwe vestigingen",
+      "Minder administratieve vragen bij je organisatie"
+    ],
+    "image": "/images/controlepaneel.jpg"
+  },
+  "steps": {
+    "label": "Zo werkt de samenwerking",
+    "title": "In vier stappen een vaste partner voor je keten",
+    "text": "We maken de afspraken één keer met je organisatie. Daarna kan elke franchisenemer zonder gedoe aansluiten.",
+    "items": [
+      { "title": "Kennismaking", "text": "We bespreken je formule, het aantal vestigingen en de afspraken over royalty's en marketingfee." },
+      { "title": "Afspraken vastleggen", "text": "We leggen het standaardpakket, het rekeningschema, de afdrachtregels en de prijs per vestiging vast." },
+      { "title": "Aanbieden", "text": "Je informeert je franchisenemers over het pakket. Zij kiezen zelf of ze klant worden." },
+      { "title": "Aansluiten en evalueren", "text": "Franchisenemers sluiten aan wanneer het hen uitkomt. We bespreken de samenwerking regelmatig met je." }
+    ]
+  },
+  "offer": {
+    "label": "Wat je franchisenemers krijgen",
+    "title": "Twee onderdelen, vooraf met je afgestemd"
+  },
+  "principles": {
+    "label": "Uitgangspunten",
+    "title": "Afspraken die we altijd maken",
+    "items": [
+      { "title": "Vrije keuze", "text": "Je franchisenemers kiezen zelf of ze klant worden. Er is geen verplichting, niet voor hen en niet voor jou." },
+      { "title": "Eigen klantrelatie", "text": "De franchisenemer is onze klant en betaalt zijn eigen abonnement. We werken in zijn belang." },
+      { "title": "Privacy", "text": "We delen alleen gegevens die in de franchiseovereenkomst staan, zoals de omzetopgave, en alleen met toestemming van de franchisenemer." },
+      { "title": "Vaste prijs", "text": "De prijs per vestiging spreken we vooraf af. Zo weten je franchisenemers precies waar ze aan toe zijn." }
+    ]
+  },
+  "faq": {
+    "label": "Vragen",
+    "title": "Vragen van franchisegevers",
+    "items": [
+      { "q": "Zijn mijn franchisenemers verplicht om klant te worden?", "a": "Nee. Je biedt het pakket aan, je franchisenemers kiezen zelf. Franchisenemers die al een boekhouder hebben, kunnen gewoon blijven." },
+      { "q": "Wie betaalt het abonnement?", "a": "De franchisenemer betaalt zijn eigen abonnement en is zelf onze klant. De prijs per vestiging spreken we vooraf met je af." },
+      { "q": "Welke gegevens krijgt mijn organisatie te zien?", "a": "Alleen wat in de franchiseovereenkomst staat, zoals de omzetopgave, en alleen met toestemming van de franchisenemer. De volledige administratie blijft van de franchisenemer." },
+      { "q": "Werken jullie ook al met franchisenemers van mijn formule?", "a": "Dat kan, omdat franchisenemers ook zelf klant kunnen worden. Met een afspraak met je organisatie richten we alle vestigingen op dezelfde manier in." },
+      { "q": "Kunnen jullie helpen bij nieuwe vestigingen?", "a": "Ja. We begeleiden nieuwe franchisenemers bij de rechtsvorm, de oprichting, de financiering en een goede startadministratie." }
+    ]
+  },
+  "contact": {
+    "label": "Contact",
+    "title": "Samenwerken met De Finance Fabriek?",
+    "text": "Vertel kort over je formule en je vestigingen. We nemen binnen één werkdag contact op voor een vrijblijvende kennismaking.",
+    "form_options": ["Ik wil vrijblijvend kennismaken", "Ik wil meer weten over het standaardpakket", "Ik wil meer weten over de controle van afdrachten", "Iets anders"],
+    "form_message_placeholder": "Bijvoorbeeld: je formule, het aantal vestigingen en wat je zoekt"
+  }
+}

@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="nl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>{{title}}</title>
+<meta name="description" content="{{description}}">
+<link rel="canonical" href="{{canonical}}">
+<meta property="og:title" content="{{title}}">
+<meta property="og:description" content="{{description}}">
+<meta property="og:url" content="{{canonical}}">
+<meta property="og:type" content="website">
+<link rel="icon" href="/images/logo.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Quando&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<link rel="stylesheet" href="/style.css">
+</head>
+<body>
+{{header}}
+<main>
+{{main}}
+</main>
+{{footer}}
+<script>
+document.querySelectorAll('form[data-netlify]').forEach(function (form) {
+  form.addEventListener('submit', async function (e) {
+    e.preventDefault();
+    var msg = form.querySelector('.form-msg');
+    try {
+      var body = new URLSearchParams(new FormData(form)).toString();
+      var r = await fetch('/', { method: 'POST', headers: { 'Content-Type': 'application/x-www-form-urlencoded' }, body: body });
+      if (!r.ok) throw new Error();
+      form.reset();
+      msg.textContent = 'Bedankt! We nemen binnen één werkdag contact met je op.';
+    } catch (err) {
+      msg.textContent = 'Versturen lukte niet. Probeer het later opnieuw of mail ons op info@financefabriek.nl.';
+    }
+  });
+});
+</script>
+</body>
+</html>

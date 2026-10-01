@@ -1,0 +1,4 @@
+Zet hier de foto's en het logo.
+
+Kopieer de inhoud van de map images uit de repository financefabriek-grens naar deze map.
+Nodig: logo.png, poort.jpg, station-19.jpg, tandwiel.jpg, fabriekshal.jpg, hal.jpg, meter.jpg, gebouw.jpg, staal.jpg, controlepaneel.jpg
