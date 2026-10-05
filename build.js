@@ -43,7 +43,7 @@ function footer() {
   const co = site.company || {};
   return `<footer class="wrap">
   <div class="foot">
-    <span>© ${new Date().getFullYear()} De Finance Fabriek · Onderdeel van De Finance Fabriek (<a href="https://financefabriek.nl/">financefabriek.nl</a>) · ${esc(co.legal)}</span>
+    <span>© ${new Date().getFullYear()} De Finance Fabriek · Onderdeel van De Finance Fabriek (<a href="https://financefabriek.nl/">financefabriek.nl</a>)</span>
     <span>KvK ${esc(co.kvk)} · Btw ${esc(co.btw)} · <a href="mailto:${mail}">${mail}</a></span>
   </div>
 </footer>`;
