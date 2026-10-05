@@ -291,7 +291,7 @@ content:
             label: "Afspraakblok: tekst"
             type: string
           - name: booking_url
-            label: "Afspraakblok: link naar agenda"
+            label: "Afspraakblok: link naar Calendly (leeg = blok verborgen)"
             type: string
           - name: booking_button
             label: "Afspraakblok: knop"
